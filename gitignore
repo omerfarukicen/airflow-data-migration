@@ -1,0 +1,14 @@
+HELP.md
+target/
+**/src/main/generated-sources
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+**/target/
+
+dags/__pycache__
+logs/**
+
+
+
+
