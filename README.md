@@ -25,3 +25,13 @@ docker compose up
 
 # CONFIGURATIONS
 https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html
+
+# POC
+- Oracle to Postgresql
+- Postgresql to Oracle
+- Postgresql Enum Type convert Oracle Enum Table
+- Generic Transfer
+- Callback methods
+- Failover Scenario
+- Paralel Dags
+- Logging
