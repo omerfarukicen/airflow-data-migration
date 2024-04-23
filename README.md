@@ -35,3 +35,6 @@ https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html
 - Failover Scenario
 - Paralel Dags
 - Logging
+
+![image](https://github.com/omerfarukicen/airflow-data-migration/assets/24473224/181140b6-3912-4cf2-a595-fa0b4a48305e)
+
